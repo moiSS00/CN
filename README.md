@@ -1,2 +1,2 @@
 # CN
-Laboratorios de la asignatura "Computación numérica" (CN).
+Ejercicios de los laboratorios de la asignatura "Computación numérica" (CN).
